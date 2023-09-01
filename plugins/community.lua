@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
 
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.pack.go" },
 
   { import = "astrocommunity.motion.nvim-surround" },
